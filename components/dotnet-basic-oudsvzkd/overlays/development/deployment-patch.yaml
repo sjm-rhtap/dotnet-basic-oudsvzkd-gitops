@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/dotnet-basic-oudsvzkd:github-778c12af29e00990479ecffca469fd267f34367b
+        - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/dotnet-basic-oudsvzkd:github-9e0626e600a9239e421cb18d9c9c4cb7e9476761
           name: container-image
